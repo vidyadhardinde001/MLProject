@@ -70,8 +70,12 @@ The analysis identifies five distinct cognitive decline profiles:
 MIT License
 
 ## Contributors
-- [Your Name]
-- [Other Contributors]
+- Vidyadhar Dinde
+- Manali Khedekar
+- Adiya Khandare
+- Kranti Varekar
+- Anuja Suntnur
+- Sneha Kumbhar
 
 ## Acknowledgments
 - ADNI for providing the dataset

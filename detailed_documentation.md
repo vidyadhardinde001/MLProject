@@ -17,7 +17,7 @@ We use the ADNIMERGE dataset which contains:
    - Mostly normal cognitive function
    - Some mild memory problems
    - Almost no dementia cases
-   - Think of this as the "minimal decline" group
+   - Think of this as the "minimal decline" group  
 
 2. **Middle Stage Group** (Cluster 0, 693 patients)
    - Mostly mild cognitive problems
